@@ -626,3 +626,217 @@ and research-supported principles.
 ---
 
 GGTC.INFO — STRUCTURED SYSTEMS · GLOBAL LEARNING · CONTINUOUS DEVELOPMENT
+
+# GSPEED_LICENSE_V001
+
+## Repository Classification
+
+PUBLIC REFERENCE LICENSE · RESTRICTED USE DOCTRINE LICENSE
+
+---
+
+# GSPEED License Agreement
+
+## Version
+
+V001
+
+## Status
+
+ACTIVE
+
+## Effective Date
+
+May 18, 2026
+
+---
+
+# Definition
+
+“GSPEED” is defined within the GGTC.info ecosystem as:
+
+```text
+The operational doctrine describing accelerated structured continuity movement through synchronized documentation, publication, archival persistence, educational expansion, and multi-platform ecosystem flow.
+```
+
+---
+
+# Ownership
+
+The GSPEED doctrine, terminology, framework structures, continuity systems, operational language, doctrine formatting, and associated publication architecture are original works developed within the GGTC.info ecosystem.
+
+---
+
+# Allowed Use
+
+The following uses are permitted:
+
+- educational reading
+- public reference
+- academic discussion
+- commentary
+- citation with attribution
+- non-commercial research
+- archival preservation
+- public documentation review
+
+---
+
+# Restricted Use
+
+The following actions are prohibited without explicit written authorization from GGTC.info:
+
+## 1. Commercial Replication
+
+No entity may commercially reproduce or redistribute:
+
+- GSPEED doctrine systems
+- operational frameworks
+- naming systems
+- continuity architectures
+- repo structures
+- doctrine chains
+- canonical continuity formatting
+
+for commercial products or services.
+
+---
+
+## 2. Trademark-Like Misrepresentation
+
+No individual or organization may falsely imply:
+
+- official GGTC.info affiliation
+- GSPEED ownership
+- ecosystem partnership
+- canonical authority
+
+without authorization.
+
+---
+
+## 3. Doctrine Repackaging
+
+GSPEED doctrine material may not be:
+
+- resold
+- relicensed
+- reframed as proprietary by outside entities
+- incorporated into closed commercial systems
+
+without permission.
+
+---
+
+## 4. AI Dataset Exploitation Restriction
+
+GSPEED continuity doctrine, repo structures, operational chains, and canonical records may not be harvested into commercial AI training systems without authorization.
+
+---
+
+# Attribution Requirement
+
+Permitted references must include attribution:
+
+```text
+Source: GGTC.info GSPEED Doctrine Framework
+GGTC.INFO — STRUCTURED SYSTEMS · GLOBAL LEARNING · CONTINUOUS DEVELOPMENT
+```
+
+---
+
+# Canonical Integrity Clause
+
+Modified versions of GSPEED doctrine material must clearly indicate:
+
+```text
+MODIFIED VERSION — NOT CANONICAL GGTC.info SOURCE
+```
+
+to preserve continuity integrity.
+
+---
+
+# Educational Exception
+
+Educational institutions, researchers, archivists, and non-commercial documentation projects may quote limited sections for:
+
+- analysis
+- research
+- commentary
+- teaching
+- preservation
+
+with attribution.
+
+---
+
+# No Warranty
+
+All materials are provided:
+
+```text
+AS IS
+```
+
+without operational guarantees, performance guarantees, or legal guarantees.
+
+---
+
+# Enforcement Principle
+
+Unauthorized commercial exploitation, impersonation, or false-authority replication may be subject to:
+
+- continuity disputes
+- attribution disputes
+- documentation claims
+- publication integrity review
+
+under applicable law.
+
+---
+
+# Log Book Entry
+
+## Entry ID
+
+GSPEED_LICENSE_COMPLETE_RESTRICTED_USE_V001
+
+## Date
+
+May 18, 2026
+
+## GGTC.info Time
+
+02:38+
+
+## Status
+
+ACTIVE · PUBLIC · RESTRICTED USE
+
+## Notes
+
+The GSPEED doctrine framework has now been assigned a restricted-use public reference license preserving educational access while restricting unauthorized commercial replication and false-authority usage.
+
+---
+
+# Final Doctrine Statement
+
+```text
+GSPEED may be observed,
+studied,
+referenced,
+and learned from.
+
+It may not be falsely claimed,
+commercially absorbed,
+or redefined outside canonical continuity
+without authorization.
+```
+
+---
+
+GGTC.INFO  
+STRUCTURED SYSTEMS · GLOBAL LEARNING · CONTINUOUS DEVELOPMENT
+
+Awareness Today · Action Tomorrow · Impact Forever
